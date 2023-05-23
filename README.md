@@ -53,4 +53,4 @@ number 20.
 
 # Study
 
-Don't hesitate to read the [ADS_Adrien_NICOLAS.pdf](./ADS_Adrien_NICOLAS.pdf) file to have more information about the study. (French version)
+Don't hesitate to read the [ADS_Adrien_NICOLAS.pdf](/ADS_Adrien_NICOLAS.pdf) file to have more information about the study. (French version)
