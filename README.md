@@ -50,3 +50,7 @@ Within the framework of this simulation, one quickly notices that the terrain co
 concentration rate of a metallic category equal to the cluster is the dataset 20. If we observe
 that cluster 2 represents a danger to the environment, we will prioritize the depollution of the land
 number 20.
+
+# Study
+
+Don't hesitate to read the ADS_Adrien_NICOLAS.pdf file to have more information about the study. (French version)
